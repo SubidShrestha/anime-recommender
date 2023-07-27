@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Rosarivo;
+  src: url("./components/fonts/Rosarivo/Rosarivo-Regular.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: Kanit;
+  src: url("./components/fonts/Kanit/Kanit-Black.ttf") format("opentype");
+}
